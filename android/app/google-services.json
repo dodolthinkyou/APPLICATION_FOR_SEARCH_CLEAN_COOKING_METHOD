@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138231149382",
+    "project_id": "datafood-d0a4d",
+    "storage_bucket": "datafood-d0a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138231149382:android:3a5c8c28f570cbcf64ab47",
+        "android_client_info": {
+          "package_name": "com.example.p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138231149382-gdmi1jbbvu4jocn0ii9vp6a7qngror8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9uARLDgzUjYv1v_haADurehfDLlH6QOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138231149382-gdmi1jbbvu4jocn0ii9vp6a7qngror8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
